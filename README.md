@@ -13,11 +13,6 @@
 - ⚡ Fun fact: **I switch fields without finishing one**
 - 🧑🏾‍💻 Projects and other details can be found in my portfolio https://fizzcodding.vercel.app
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fizzcodding/fizzcodding/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fizzcodding/fizzcodding/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fizzcodding/fizzcodding/output/pacman-contribution-graph.svg">
-</picture>
 
 ## Connect With Me!
 
