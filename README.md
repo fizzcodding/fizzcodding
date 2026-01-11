@@ -46,4 +46,4 @@
 
 ## Tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,dart,react,flutter,vuejs,laravel,cmake,lua,supabase,vscode,vite,kotlin,graphql,arch,angular,nodejs,neovim,linux,azure,blender,vercel,figma,java,cs,cpp,c,notion,aws,androidstudio,bootstrap,postman,robloxstudio,dotnet,nginx,npm,php,fastapi,jquery,firebase,arduino,flask,docker,blender,django,googlecloud,gradle,gitlab,bash,git,mysql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,dart,react,flutter,vuejs,laravel,cmake,lua,supabase,vscode,vite,kotlin,graphql,arch,angular,nodejs,neovim,linux,azure,blender,vercel,figma,java,cs,cpp,c,notion,aws,androidstudio,bootstrap,postman,robloxstudio,dotnet,nginx,npm,php,fastapi,jquery,firebase,arduino,flask,docker,blender,django,googlecloud,gradle,bash,git,mysql,postgresql)](https://skillicons.dev)
