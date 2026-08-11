@@ -16,8 +16,9 @@
 ---
 [![](https://komarev.com/ghpvc/?username=fizzcodding&icon=0&color=0)](https://visitcount.itsvg.in)
 
-#### Stats
-https://hackatime.hackclub.com/api/v1/badge/U0AV8GB16NB/fizzcodding/LifeSphereMain
-https://github-readme-stats.hackclub.dev/api/wakatime?username=34666&api_domain=hackatime.hackclub.com&theme=apprentice&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+## ⏱️ Hackatime Stats
 
+![Hackatime](https://hackatime.hackclub.com/api/v1/badge/U0AV8GB16NB/fizzcodding/LifeSphereMain)
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=34666&api_domain=hackatime.hackclub.com&theme=apprentice&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
